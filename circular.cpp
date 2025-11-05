@@ -3,7 +3,7 @@ using namespace std;
 
 #define AKBAR 10
 
-#define MAX 6
+#define MAX 10
 
 struct queue
 {
