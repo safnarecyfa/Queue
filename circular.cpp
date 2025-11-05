@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+#define AKBAR 6
+
 #define MAX 6
 
 struct queue
