@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define AKBAR 6
+#define AKBAR 10
 
 #define MAX 6
 
